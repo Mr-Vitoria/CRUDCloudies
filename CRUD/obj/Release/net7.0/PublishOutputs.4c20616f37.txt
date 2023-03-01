@@ -1,0 +1,14 @@
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\CRUD.exe
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\CRUD.dll
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\CRUD.runtimeconfig.json
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\CRUD.pdb
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\Projects\CloudTechnologies\CRUD\CRUD\obj\Release\net7.0\PubTmp\Out\CRUD.deps.json
